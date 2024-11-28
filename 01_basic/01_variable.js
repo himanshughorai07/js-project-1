@@ -15,3 +15,7 @@ accountEmail ="demo@gmail.com"
 
 
 console.table([accountCity,accountId,accountEmail]);
+
+
+// prefer to use to ler not var because it is in block scope issue for functional scope ;
+
